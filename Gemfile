@@ -12,6 +12,9 @@ gem "pg", "~> 1.1"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
+# Enumerize
+gem 'enumerize'
+
 # gems to use graphql
 gem 'graphql', '~> 2.0', '>= 2.0.17'
 gem 'graphiql-rails', '~> 1.7'
